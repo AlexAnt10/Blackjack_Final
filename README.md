@@ -25,7 +25,7 @@ Caracteristici:
 
 Structura programului:
 
-Ca sa intelegeti mai bine aces program si implementarea acestuia o sa vorbesc putin despre clasele care fac parte din el si importanta lor:
+Ca sa intelegeti mai bine acest program si implementarea acestuia o sa vorbesc putin despre clasele care fac parte din el si importanta lor:
 
 Clasa Card: 
 
